@@ -6,7 +6,7 @@ _Pbxbot_zip () {
     then
         echo "https://github.com/${PLUGINS_REPO}/archive/master.zip"
     else
-        echo "https://github.com/Badhacker98/PBX_2.0/archive/master.zip"
+        echo "https://gitlab.com/Badhacker98/PBX_2.0/archive/master.zip"
     fi
 }
 

@@ -30,7 +30,7 @@
 Follow these 4 straightforward steps to deploy PbxBot on Heroku:
 
 1. **Fork & Star this Repo:**
-    > Begin by [forking](https://github.com/Badhacker98/PBX_2.0/fork) and [starring](https://github.com/Badhacker98/PBX_2.0//) this repository on GitHub.
+    > Begin by [forking](https://gitlab.com/Badhacker98/PBX_2.0/fork) and [starring](https://gitlab.com/Badhacker98/PBX_2.0//) this repository on GitHub.
 
 2. **Heroku Account Login:**
    > Ensure you are logged into your [Heroku account](https://dashboard.heroku.com) before proceeding.
@@ -51,7 +51,7 @@ That's it! You've successfully deployed Pbx  on Heroku. Now scale dynos and star
 
 ## Deploy To Render ⚠️ Deploy On EU Server
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Badhacker98/PBX_2.0)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://gitlab.com/Badhacker98/PBX_2.0)
 
 ---
 
@@ -138,7 +138,7 @@ That's it! You've successfully deployed Pbxbot 2.0 on a Linux VPS in 6 easy step
     Copyright (C) 2024 <a href="https://github.com/Badhacker98">🕊️⃝‌ʙᴀᴅ ❤️ᥫ᭡፝֟፝֟</a>
 </h4>
 
-Project [PbxBot](https://github.com/Badhacker98/PBX_2.0) is free software: you can redistribute it and/or modify
+Project [PbxBot](https://gitlab.com/Badhacker98/PBX_2.0) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -156,5 +156,5 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </h2>
 
 ---
-[![Forks @ll_BAD_MUNDA_ll](https://reporoster.com/forks/dark/Badhacker98/PBX_2.0)](https://github.com/Badhacker98/PBX_2.0/network/members)
+[![Forks @ll_BAD_MUNDA_ll](https://reporoster.com/forks/dark/Badhacker98/PBX_2.0)](https://gitlab.com/Badhacker98/PBX_2.0/network/members)
 ---
