@@ -11,11 +11,11 @@
 
 ---
 
-![GitHub forks](https://img.shields.io/github/forks/Badhacker98/PBX_2.0?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/Badhacker98/PBX_2.0?style=social)
+![GitLab forks](https://img.shields.io/gitlab/forks/Badhacker98/PBX_2.0?style=social)
+![GitLab Repo stars](https://img.shields.io/gitlab/stars/Badhacker98/PBX_2.0?style=social)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/Badhacker98/PBX_2.0?&style=social&logo=github)
+![GitLab license](https://img.shields.io/gitlab/license/Badhacker98/PBX_2.0?&style=social&logo=gitlab)
 
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/ll_THE_BAD_BOT_ll)
