@@ -26,4 +26,4 @@ tgcrypto
 Unidecode
 wikipedia
 yt-dlp
-googletrans @ git+https://github.com/badmunda98/py-googletrans
+googletrans @ git+https://gitlab.com/Badmunda98/py-googletrans
