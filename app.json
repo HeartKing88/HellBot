@@ -61,7 +61,7 @@
     },
     "buildpacks": [
         {
-            "url": "https://github.com/Badmunda98/heroku-buildpack-ffmpeg-latest"
+            "url": "https://gitlab.com/Badmunda98/heroku-buildpack-ffmpeg-latest"
         },
         {
             "url": "https://github.com/heroku/heroku-buildpack-chrome-for-testing"
