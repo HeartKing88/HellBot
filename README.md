@@ -51,7 +51,7 @@ That's it! You've successfully deployed Pbx  on Heroku. Now scale dynos and star
 
 ## Deploy To Render ⚠️ Deploy On EU Server
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://gitlab.com/Badhacker98/PBX_2.0)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/HeartKing88/HellBot)
 
 ---
 
