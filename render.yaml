@@ -5,8 +5,8 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: bash setup
-    repo: https://gitlab.com/Badhacker98/PBX_2.0
-    branch: master
+    repo: https://github.com/HeartKing88/HellBot
+    branch: main
     autoDeploy: False
     envVars:
     - key: BOT_TOKEN
