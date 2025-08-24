@@ -9,7 +9,7 @@
         "pyrogram",
         "Pbxbot"
     ],
-    "repository": "https://gitlab.com/Badhacker98/PBX_2.0",
+    "repository": "https://github.com/HeartKing88/HellBot",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
@@ -50,12 +50,12 @@
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
-            "value": "badmunda98/PbxPlugin",
+            "value": "HeartKing88/Plugins",
             "required": true
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "Badhacker98/PBX_2.0",
+            "value": "HeartKing88/HellBot",
             "required": true
         }
     },
